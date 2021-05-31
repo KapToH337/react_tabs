@@ -1,2 +1,0 @@
-.tabs{-webkit-flex-direction:row;flex-direction:row;grid-column-gap:15px;-webkit-column-gap:15px;column-gap:15px}.block,.block__select,.tabs{display:-webkit-flex;display:flex}.block,.block__select{-webkit-flex-direction:column;flex-direction:column;position:relative}.block{border:1px solid #00008b}.block:hover,.block__select{border:1px solid #00f}.title,.title__select{margin:0;padding:10px}.title{color:#00008b}.title__select{color:#00f}.title:hover{cursor:pointer;color:#00f}.paragraph{position:absolute;top:40px}
-/*# sourceMappingURL=main.ac64a709.chunk.css.map */
